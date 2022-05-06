@@ -1,2 +1,2 @@
-# Java-Tuturial
-Personal Tuturial Java Packages
+# Java-Tutorial
+Personal Tutorial Java Packages
